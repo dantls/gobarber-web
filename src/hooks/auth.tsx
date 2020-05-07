@@ -64,4 +64,5 @@ function useAuth(): AuthContextData {
   }
   return context;
 }
+
 export { AuthProvider, useAuth };
