@@ -154,6 +154,10 @@ export const Section = styled.section`
     padding-bottom: 16px;
     margin-bottom: 16px;
   }
+  > p {
+    color: #999591;
+    font-size: 16px;
+  }
 `;
 
 export const Appointment = styled.div`
