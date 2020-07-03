@@ -100,6 +100,7 @@ export const AvatarInput = styled.div`
     svg {
       width: 20px;
       height: 20px;
+      color: #999591;
     }
     &:hover {
       background: ${shade(0.2, '#39ff14')};
